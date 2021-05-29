@@ -1,6 +1,8 @@
 # Flix
 Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
+#### Total Hours: 7 
+
 ## Flix Part 2
 
 ### User Stories
@@ -20,9 +22,9 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] Apply the popular ButterKnife annotation library to reduce view boilerplate. (1 point)
 - [X] Add a rounded corners for the images using the Glide transformations. (1 point)
 
-Flixster_Gif
+<img src="Flixster_Gif.gif" width=250><br>
 
-Portrait Mode_Gif
+<img src="Portrait Mode_Gif.gif" width=400><br>
 
 ### Notes
 
